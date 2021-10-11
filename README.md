@@ -6,7 +6,7 @@ A free REST API for random Kanye West quotes (Kanye as a Service)
 ### API
 
 ```bash
-https://kanye.rest/
+https://api.kanye.rest/
 ```
 
 ### Tech Stack
