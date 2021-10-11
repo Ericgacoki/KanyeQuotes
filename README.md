@@ -1,5 +1,5 @@
 ### KanyeQuotes
-Consuming Kanye West quotes Rest API
+A free REST API for random Kanye West quotes (Kanye as a Service)
 
 <img src="images/sample-quote.png" />
 
