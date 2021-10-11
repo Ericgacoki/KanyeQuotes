@@ -9,6 +9,11 @@ A free REST API for random Kanye West quotes (Kanye as a Service)
 https://api.kanye.rest/
 ```
 
+### Return data
+```json
+{"quote":"You can't look at a glass half full or empty if it's overflowing."}
+```
+
 ### Tech Stack
 - Retrofit
 - MVVM
